@@ -1,4 +1,4 @@
-// 1.) Given a sorted array. Convert it into a Height Balanced Binary Search Tree (BST). Return the root of the BST.
+// 2.) Given a sorted array. Convert it into a Height Balanced Binary Search Tree (BST). Return the root of the BST.
 //     Height-balanced BST means a binary tree in which the depth of the left subtree and the right subtree of every node never differ by more than 1.
 //     Note: The driver code will check the BST, if it is a Height-balanced BST, the output will be true otherwise the output will be false.
 
