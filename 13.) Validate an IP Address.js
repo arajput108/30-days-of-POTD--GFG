@@ -111,6 +111,5 @@ class Solution {
 //Compilation Completed: -
 // Input: 222.111.111.111
 // Output: true
-// Explanation: Here, the IPv4 address is as per the criteria mentioned and also all four decimal numbers lies in the mentioned range.
 
 // Expected Output: - true
