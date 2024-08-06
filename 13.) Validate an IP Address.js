@@ -6,7 +6,7 @@
 
 // Note: Here we are considering numbers only from 0 to 255 and any additional leading zeroes will be considered invalid.
 
-// Examples :
+// Examples: -
 
 // Input: str = 222.111.111.111
 // Output: true
