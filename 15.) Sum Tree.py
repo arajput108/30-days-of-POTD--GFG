@@ -3,7 +3,6 @@
 # A SumTree is a Binary Tree where the value of a node is equal to the sum of the nodes present in its left subtree and right subtree. An empty tree is also a Sum Tree as the sum of an empty tree can be considered to be 0. A leaf node is also considered a Sum Tree.
 
 # Examples :
-
 # Input:
 #     3
 #   /   \    
