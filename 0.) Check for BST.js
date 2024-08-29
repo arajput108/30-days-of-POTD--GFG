@@ -7,6 +7,7 @@
 // Both the left and right subtrees must also be binary search trees.
 // Examples:
 
+
 // Input:
 //    2
 //  /    \
